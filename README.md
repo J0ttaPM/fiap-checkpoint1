@@ -1,4 +1,4 @@
-# Ping
+# Checkpoint 1 
 
 Aplicação Java com container para exemplo
 
