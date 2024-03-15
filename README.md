@@ -14,7 +14,7 @@ Aplicação Java com container para exemplo
 #### Clone
 
 ```
-git clone https://github.com/J0ttaPM/checkpoint1.git
+git clone https://github.com/J0ttaPM/fiap-checkpoint1.git
 ```
 
 ## Execução
